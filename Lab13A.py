@@ -3,7 +3,7 @@
 # Term: Fall 2024
 # Instructor: Tejaswini Karanam
 # Name: Zachary Taylor
-# Program: Lab13.py
+# Program: Lab13A.py
 
 #temps = "1 2 3 4 5 50 2 5 30 20 40 41 42 43 1 2 3"
 #temps = temps.split(" ")
